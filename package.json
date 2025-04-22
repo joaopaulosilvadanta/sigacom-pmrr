@@ -1,0 +1,9 @@
+{
+  "name": "sigacom-web",
+  "dependencies": {
+    "firebase": "^9.0.0",
+    "jspdf": "^2.4.0",
+    "docx": "^7.1.0",
+    "xlsx": "^0.17.0"
+  }
+}
